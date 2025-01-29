@@ -21,8 +21,9 @@ The dataset consists of **10,252** customer reviews from Amazon, each labeled as
 
 ### **2. Label Encoding**  
 - Since the target labels are categorical (positive/negative), we use **label encoding** to convert them into numerical format:  
-  - **Positive sentiment → 1**  
-  - **Negative sentiment → 0**  
+  - **Positive sentiment → 2**  
+  - **Negative sentiment → 0**
+  - **Neutral sentiment → 1**  
 - This step ensures compatibility with machine learning algorithms.  
 
 ---
