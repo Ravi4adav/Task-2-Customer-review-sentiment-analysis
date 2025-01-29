@@ -1,5 +1,20 @@
 # **Task-2:** Amazon Customer Review Sentiment Analysis
 
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** RAVI YADAV
+
+**INTERN ID:** CT08IIJ
+
+**DOMAIN:** MACHINE LEARNING
+
+**DURATION:** 4 WEEKS
+
+**MENTOR:** NEELA SANTOSH
+
+
+# **Description**
+
 ## **Project Overview**  
 The **Amazon Customer Review Sentiment Analysis** project aims to classify customer reviews as positive or negative based on sentiment analysis techniques. Customer reviews are crucial for businesses to understand user satisfaction, improve products, and enhance customer service. This project utilizes **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques to analyze customer sentiments from text reviews.  
 
